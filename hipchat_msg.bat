@@ -1,0 +1,1 @@
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -file c:\uptime\scripts\hipchat_message.ps1
